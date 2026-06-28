@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Frogchess.Tests/Frogchess.Tests.csproj" Id="476c434a-72ea-453d-80f1-b293c2bae2fb" />
+  <Project Path="Frogchess/Frogchess.csproj" />
+  <Project Path="tests/Domain.Tests.csproj" />
+</Solution>
